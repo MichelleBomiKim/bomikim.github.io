@@ -1,0 +1,9 @@
+---
+title: "Michelle Kim"
+---
+
+Michelle Kim's classes work and projects can be found here.
+
+Currently attending University of Texas at Dallas majoring in MS Social Data Analytics and Research.
+
+![](images/utd%20image.jpg){fig-align="center" width="338"}
